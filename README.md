@@ -28,6 +28,7 @@ That is, your folder structure should be:
 ```
 
 Using gesture_recognizer1.py:
+
 1. Modify the main function in gesture_recognizer1.py to use the correct list of users. Then, train and save the gesture recognizer.
 https://github.com/mon95/Sign-Language-and-Static-gesture-recognition-using-sklearn/blob/master/dataset/gesture_recognizer1.py#L509
 
