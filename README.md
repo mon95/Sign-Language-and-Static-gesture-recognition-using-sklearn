@@ -29,9 +29,9 @@ That is, your folder structure should be:
 
 Using gesture_recognizer1.py:
 
-1. Modify the main function in gesture_recognizer1.py to use the correct list of users. Then, train and save the gesture recognizer.
+1. Modify the main function in gesture_recognizer1.py to use the correct list of users. Train and save the gesture recognizer. (Uncomment the lines in main() accordingly)
 https://github.com/mon95/Sign-Language-and-Static-gesture-recognition-using-sklearn/blob/master/dataset/gesture_recognizer1.py#L509
 
-2. Then, use the load_model method to load the previously saved gesture recognizer objec. Now, the test images, can be tested using the recognize_gesture function.
+2. Then, use the load_model method to load the previously saved gesture recognizer objec. Now, the test images, can be tested using the recognize_gesture function. 
 
 The functions in the pipeline_final.ipynb ipython notebook can be used to build your own pipeline using various classifier combinations from the scikit learn toolbox.
