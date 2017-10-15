@@ -37,3 +37,5 @@ https://github.com/mon95/Sign-Language-and-Static-gesture-recognition-using-skle
 2. Then, use the load_model method to load the previously saved gesture recognizer objec. Now, the test images, can be tested using the recognize_gesture function. 
 
 The functions in the pipeline_final.ipynb ipython notebook can be used to build your own pipeline using various classifier combinations from the scikit learn toolbox.
+
+A slightly more detailed explanation here: https://github.com/mon95/Sign-Language-and-Static-gesture-recognition-using-sklearn/issues/3 
