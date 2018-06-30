@@ -1,6 +1,6 @@
 ## Sign Language and Static-Gesture Recognition using scikit-learn
 
-Do check out my [blog post explaining the project](http://www.ssreehari.com/Sign-language-and-static-gesture-recgnition/)! 
+Do check out my [blog post explaining the project](https://medium.freecodecamp.org/weekend-projects-sign-language-and-static-gesture-recognition-using-scikit-learn-60813d600e79)! 
 
 To use the code in /dataset/gesture_recognizer1.py or the code in /dataset/pipeline_final.ipynb, download the Dataset.zip file and extract the data into the folder containing the above code.
 
